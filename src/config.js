@@ -7,16 +7,16 @@ exports.owner = {
         "short": "Cameron",
         "long": "Cameron Bernhardt"
     },
-    "id": "100007016509302" // ID of bot owner (for secure commands, reports, and alerts)
+    "id": "100044487340424" // ID of bot owner (for secure commands, reports, and alerts)
 };
 
 // Bot information
 exports.bot = {
     "names": {
-        "short": "AØBøt", // Will be used as 'nickname' in chat (remove if same as account name)
-        "long": "AssumeZero Bot" // Name displayed in profile on bot's Facebook account
+        "short": "AR Bot", // Will be used as 'nickname' in chat (remove if same as account name)
+        "long": "AR Zero Bot" // Name displayed in profile on bot's Facebook account
     },
-    "id": "100041587845629" // Bot's ID (for security purposes in commands)
+    "id": "61576731812131" // Bot's ID (for security purposes in commands)
 };
 
 // Location of the bot repo if automatic GitHub webhook deploys are used
@@ -50,7 +50,7 @@ exports.localSleepTime = 3;
 exports.localWakeTime = 9;
 
 // Your desired timezone for displaying times
-exports.timeZone = "America/New_York";
+exports.timeZone = "Asia/Dhaka";
 
 // Time in seconds to ban users for Order 66
 exports.order66Time = 15;
